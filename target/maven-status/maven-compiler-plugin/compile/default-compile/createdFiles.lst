@@ -1,0 +1,6 @@
+page\ProductCatalogPage.class
+page\CheckOutPage.class
+SeleniumFrameworkDesign\abstractComponent\AbstractComponent.class
+page\CartPage.class
+page\LoginPage.class
+utils\ExtentReporterNG.class
